@@ -2,7 +2,7 @@
 //является ли оно палиндромом.
 
 Console.Write("Введите число: ");
-string? number = Console.ReadLine();
+string number = Console.ReadLine();
 
 void CheckingNumber(string number)
 {
@@ -13,7 +13,8 @@ void CheckingNumber(string number)
   else Console.WriteLine($"Ваше число: {number} - НЕТ.");
 }
 
-if (number!.Length == 5){
+if (number!.Length == 5)
+{
   CheckingNumber(number);
 }
 else Console.WriteLine($"Введи правильное число");
