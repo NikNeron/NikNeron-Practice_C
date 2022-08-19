@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\bin\Debug\net6.0\domDZ1.exe
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\bin\Debug\net6.0\domDZ1.deps.json
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\bin\Debug\net6.0\domDZ1.runtimeconfig.json
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\bin\Debug\net6.0\domDZ1.dll
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\bin\Debug\net6.0\domDZ1.pdb
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\obj\Debug\net6.0\domDZ1.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\obj\Debug\net6.0\domDZ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\obj\Debug\net6.0\domDZ1.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\obj\Debug\net6.0\domDZ1.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\obj\Debug\net6.0\domDZ1.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\obj\Debug\net6.0\domDZ1.dll
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\obj\Debug\net6.0\refint\domDZ1.dll
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\obj\Debug\net6.0\domDZ1.pdb
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\obj\Debug\net6.0\domDZ1.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Seminar2\Seminar16.08.22\domDZ1\obj\Debug\net6.0\ref\domDZ1.dll
