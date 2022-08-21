@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\bin\Debug\net6.0\domDZ2.exe
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\bin\Debug\net6.0\domDZ2.deps.json
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\bin\Debug\net6.0\domDZ2.runtimeconfig.json
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\bin\Debug\net6.0\domDZ2.dll
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\bin\Debug\net6.0\domDZ2.pdb
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\obj\Debug\net6.0\domDZ2.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\obj\Debug\net6.0\domDZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\obj\Debug\net6.0\domDZ2.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\obj\Debug\net6.0\domDZ2.AssemblyInfo.cs
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\obj\Debug\net6.0\domDZ2.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\obj\Debug\net6.0\domDZ2.dll
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\obj\Debug\net6.0\refint\domDZ2.dll
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\obj\Debug\net6.0\domDZ2.pdb
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\obj\Debug\net6.0\domDZ2.genruntimeconfig.cache
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ2\obj\Debug\net6.0\ref\domDZ2.dll

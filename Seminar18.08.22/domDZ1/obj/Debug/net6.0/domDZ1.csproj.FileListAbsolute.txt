@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\obj\Debug\net6.0\domDZ1.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\obj\Debug\net6.0\domDZ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\obj\Debug\net6.0\domDZ1.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\obj\Debug\net6.0\domDZ1.AssemblyInfo.cs
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\obj\Debug\net6.0\domDZ1.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\bin\Debug\net6.0\domDZ1.exe
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\bin\Debug\net6.0\domDZ1.deps.json
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\bin\Debug\net6.0\domDZ1.runtimeconfig.json
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\bin\Debug\net6.0\domDZ1.dll
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\bin\Debug\net6.0\domDZ1.pdb
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\obj\Debug\net6.0\domDZ1.dll
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\obj\Debug\net6.0\refint\domDZ1.dll
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\obj\Debug\net6.0\domDZ1.pdb
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\obj\Debug\net6.0\domDZ1.genruntimeconfig.cache
+C:\Users\Никита\Desktop\NikNeron-Practice_C-master\Seminar18.08.22\domDZ1\obj\Debug\net6.0\ref\domDZ1.dll
