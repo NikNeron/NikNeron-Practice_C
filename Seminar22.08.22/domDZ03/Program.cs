@@ -5,7 +5,7 @@
 5 9 2 3
 8 4 2 4
 Сумма элементов главной диагонали: 1+9+2 = 12*/
-
+/*
 int[,] array = new int[3, 4];
 
 int Sum1(int[,] array)
@@ -25,4 +25,20 @@ int Sum1(int[,] array)
     return sum;
 }
 int sum = Sum1(array); 
+Console.WriteLine(sum);
+*/
+// 2 вариант решения
+
+int[,] array = new int[3, 4];
+int sum = 0;
+for (int i = 0; i < array.GetLength(0); i++)
+{
+    for (int j = 0; j < array.GetLength(1); j++)
+    {
+        array[i, j] = new Random().Next(1, 10);
+        Console.Write(array[i, j] + " ");
+        if (i == j) sum += array[i, j];
+    }
+    Console.WriteLine();
+}
 Console.WriteLine(sum);
