@@ -39,3 +39,5 @@ for (int j = 0; j < array1.GetLength(1); j++)
     q = sum / array1.GetLength(0);
     Console.WriteLine("В {0} колонке ср/ариф: {1}", j, Math.Round(q, 2));
 }
+
+int  g = 4;
