@@ -93,13 +93,13 @@ for (int i = 2; i <= 10; i++)
 //Тренировочная задача
 
 string text = "— Я думаю, — сказал князь, улыбаясь, — что, "
-             + "ежели бы вас послали вместо нашего милого Винценгероде,"
-             + "вы бы взяли приступом согласие прусского короля."
-             + "Вы так красноречивы. Вы дадите мне чаю?";
+            + "ежели бы вас послали вместо нашего милого Винценгероде,"
+            + "вы бы взяли приступом согласие прусского короля."
+            + "Вы так красноречивы. Вы дадите мне чаю?";
 
 // string s = "qwerty"
-// 012345   
-
+//             012345   
+// s[3] // r
 
 string Replace(string text, char oldValue, char newValue)
 {
@@ -112,8 +112,8 @@ string Replace(string text, char oldValue, char newValue)
     }
     return result;
 }
-//string newText = Replace(text, " ", " - ");
-//Console.WriteLine(newText);
 
+string newText = Replace(text, ' ', '-');
+Console.WriteLine(newText);
 
 
