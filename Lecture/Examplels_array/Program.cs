@@ -47,7 +47,7 @@ for (int rows = 0; rows < 2; rows++)
     }
 }
 */
-/*
+
 int[,] matrix = new int[3, 4];
 for (int i = 0; i < matrix.GetLength(0); i++)
 {
@@ -57,7 +57,7 @@ for (int i = 0; i < matrix.GetLength(0); i++)
     }
     Console.WriteLine();
 }
-*/
+
 
 
 /*
@@ -187,7 +187,7 @@ PrintImage(pic);
 /////////////////////////////////////////////////////////////////////////////
 
 
-using System;
+//using System;
 
 namespace CSharpLesson8
 {
@@ -395,3 +395,111 @@ namespace CSharpLesson8
         }
     }
 }
+
+
+
+//СОРТИРОВКА ДВУХМЕРНОГО МАССИВА ПО СТРОКАМ
+/*
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+        int n = 4;
+        int[,] a = new int[n, n];
+        int[,] b = new int[n, n];
+        int[,] c = new int[n, n];
+        Random ran = new Random();
+        for (int j = 0; j < n; j++)
+        {
+            for (int i = 0; i < n; i++)
+            {
+                a[i, j] = ran.Next(0, 10);
+                b[i, j] = a[i, j];
+                c[i, j] = a[i, j];
+                Console.Write("{0}\t", a[i, j]);
+            }
+            Console.WriteLine();
+        }
+        int[] temp = new int[n];
+
+        Console.WriteLine("\nСортировка по строкам: ");
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < n; j++)
+                temp[j] = b[i, j];
+            Array.Sort(temp);
+            for (int k = 0; k < n; k++)
+            {
+                b[i, k] = temp[k];
+                Console.Write("{0}\t", b[i, k]);
+            }
+            Console.WriteLine();
+        }
+    }
+}        
+*/
+
+//СОРТИРОВКА КАК СТРОК ТАК И СТОЛБЦЫ
+/*
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+        int n = 4;
+        int[,] a = new int[n, n];
+        int[] temp = new int[n];
+
+        Random ran = new Random();
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                a[i, j] = ran.Next(1, 5);
+                Console.Write("{0}\t", a[i, j]);
+            }
+            Console.WriteLine();
+        }
+
+        Console.WriteLine("\nСортировка по строкам: ");
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < n; j++)
+                temp[j] = a[i, j];
+            Array.Sort(temp);
+            for (int k = 0; k < n; k++)
+            {
+                a[i, k] = temp[k];
+                Console.Write("{0}\t", a[i, k]);
+            }
+            Console.WriteLine();
+        }
+
+        Console.WriteLine("\nСортировка по столбцам: ");
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < n; j++)
+                temp[j] = a[j, i];
+            Array.Sort(temp);
+            for (int k = 0; k < n; k++)
+                a[k, i] = temp[k];
+        }
+
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < n; j++)
+                Console.Write("{0}\t", a[i, j]);
+            Console.WriteLine();
+        }
+    }
+}*/
+
+
+//Задача : Из двумерного массива случайных целых чисел от 0 до 10 удалить 
+//строку и столбец, на пересечении которых расположен наименьший элемент.
+

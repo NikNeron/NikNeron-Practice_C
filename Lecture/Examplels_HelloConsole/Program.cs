@@ -69,3 +69,22 @@ b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 8 4 2 4
 
 Сумма элементов главной диагонали: 1+9+2 = 12*/
+
+
+void PrintArray(int[,] array)      //bool fillArray)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        for (int j = 0; j < array.Length; j++)
+        {
+            //if (fillArray)
+                array[i, j] = new Random().Next(0, 10);
+            Console.Write(array[i, j] + " ");
+
+        }
+    }
+}
+
+int[,] array = new int[3, 3];
+
+PrintArray(array); //true);
