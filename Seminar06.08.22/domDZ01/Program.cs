@@ -3,7 +3,7 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
-Console.WriteLine("Введите число");
+Console.WriteLine("Максимальное число");
 int a = 50;
 int b = 60;
 int c = 40;
@@ -15,6 +15,17 @@ if (c > max) max = c;
 
 Console.Write("max =  ");
 Console.WriteLine(max);
+
+
+
+
+
+
+
+
+
+
+
 
 
 
